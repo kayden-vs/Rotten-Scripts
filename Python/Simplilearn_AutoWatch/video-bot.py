@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 
 options = Options()
-# options.add_argument("--headless")
+options.add_argument("--headless")   #Comment this out when running on remote server
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--autoplay-policy=no-user-gesture-required")
