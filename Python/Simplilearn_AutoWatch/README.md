@@ -8,6 +8,12 @@ A Python automation tool designed to help Simplilearn users efficiently complete
 
 Simplilearn AutoWatch is a lightweight Python script that automates the video watching process on Simplilearn's learning platform. The tool uses Selenium WebDriver to simulate user interactions, allowing for seamless progress through course content.
 
+<p align="center">
+   <img src="/sample1.png" alt="Simplilearn Login Page" width="500"/>
+</p>
+
+<div align="center"><em>Screenshot: Simplilearn Login Page</em></div>
+
 ## Features
 
 - Automatic login to Simplilearn
@@ -66,6 +72,12 @@ python video-bot.py
    - Log in to your Simplilearn account
    - Click on the "Continue Watching" button for your course
    - Monitor video progress until completion
+
+<p align="center">
+   <img src="/sample2.png" alt="My Learning Page - Script in Action" width="500"/>
+</p>
+
+<div align="center"><em>Screenshot: My Learning page showing the script in action</em></div>
 
 ## Disclaimer
 
